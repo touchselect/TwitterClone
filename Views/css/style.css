@@ -191,11 +191,11 @@ a {
 	font-size: 14px;
 }
 
-.home .tweet-list .tweet .contant {
+.home .tweet-list .tweet .content {
 	width: calc(100% - 60px);
 }
 
-.home .tweet-list .tweet .contant p {
+.home .tweet-list .tweet .content p {
 	font-size: 16px;
 	padding: 8px 0 0 0;
 	margin-bottom: 8px;
